@@ -43,3 +43,11 @@ Traineeship-App is a Spring Boot web application that manages the full lifecycle
 2.  Update database credentials in  `src/main/resources/application.properties`  to match your local MySQL instance.
     
 3.  (Optional) Import the provided SQL scripts (`myy803_traineeship.sql`,  `myy803_traineeship-static.sql`) to pre-populate the database.
+
+## 👨‍💻 Author
+
+**Panagiotis Trypos**
+
+* [Website / Portfolio](https://ptrypos.me)
+* [GitHub Profile](https://github.com/ptrypos)
+* [LinkedIn](https://www.linkedin.com/in/%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%B9%CF%8E%CF%84%CE%B7%CF%82-%CF%84%CF%81%CF%8D%CF%80%CE%BF%CF%82-983abb242)
